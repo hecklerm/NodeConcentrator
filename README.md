@@ -11,6 +11,8 @@ Scripts, setup code, and required libraries (difficult to locate online) for con
 
 ## Contact info
 
-Mark Heckler 
-mark.heckler@gmail.com 
+Mark Heckler
+
+mark.heckler@gmail.com
+
 @MkHeck
