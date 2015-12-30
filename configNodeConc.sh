@@ -6,6 +6,8 @@ sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install oracle-java8-jdk
 
+sudo apt-get install mosquitto mosquitto-clients
+
 sudo apt-get install libjpeg8-dev imagemagick libv4l-dev
 sudo ln -s /usr/include/linux/videodev2.h /usr/include/linux/videodev.h
 
